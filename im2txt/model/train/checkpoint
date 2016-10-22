@@ -1,0 +1,6 @@
+model_checkpoint_path: "/root/im2txt/model/train/model.ckpt-1015031"
+all_model_checkpoint_paths: "/root/im2txt/model/train/model.ckpt-1012147"
+all_model_checkpoint_paths: "/root/im2txt/model/train/model.ckpt-1012895"
+all_model_checkpoint_paths: "/root/im2txt/model/train/model.ckpt-1013644"
+all_model_checkpoint_paths: "/root/im2txt/model/train/model.ckpt-1014339"
+all_model_checkpoint_paths: "/root/im2txt/model/train/model.ckpt-1015031"
